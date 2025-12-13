@@ -74,5 +74,9 @@
  "zellij": {
     "synonyms": [],
     "category": "culture"
+  },
+"cake": {
+    "synonyms": ["torta","kika","tarte","7lwa","7liwa","3id milad","eid milad", "birthday"],
+    "category": "food"
   }
 }
